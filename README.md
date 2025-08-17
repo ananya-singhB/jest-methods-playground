@@ -1,4 +1,4 @@
-# 🧪 Jest Methods Playground (WIP)
+# 🧪 Jest Methods Playground
 
 An interactive learning platform(WIP) for Jest testing framework. Built with React 19, TypeScript, and React Router v7, this project provides an examples of every Jest method.
 
